@@ -45,6 +45,13 @@ Control detallado de productos, categorías, stock actual y ubicaciones.
 
 ---
 
+###5. Gestion de Reportes
+
+Controla los reportes de tu equipo
+
+![Gestion de Reportes](./images/5.png)
+![Gestion de Reportes](./images/5-modo-oscuro.png)
+
 ## Instalación
 
 1. Clona el repositorio:
