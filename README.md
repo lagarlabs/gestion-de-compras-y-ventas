@@ -50,7 +50,7 @@ Control detallado de productos, categorías, stock actual y ubicaciones.
 Controla los reportes de tu equipo
 
 ![Gestion de Reportes](./images/5.png)
-![Gestion de Reportes](./images/5-modo%oscuro.png)
+![Gestion de Reportes](./images/5-modo oscuro.png)
 
 ## Instalación
 
